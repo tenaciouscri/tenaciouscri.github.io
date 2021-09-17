@@ -11,6 +11,7 @@ ul {
 }
 
 ul li {
+    align-items: center;
     display: inline-block;
     padding: 5px;
     font-variant: small-caps;
