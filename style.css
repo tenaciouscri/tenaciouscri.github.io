@@ -3,3 +3,13 @@ background-color: rgb(18, 80, 121);
 text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+ul {
+    display: table;
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    display: inline-block;
+    padding: 5px;
+}
