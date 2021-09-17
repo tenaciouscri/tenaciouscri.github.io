@@ -1,34 +1,34 @@
 body {
-background-color: black;
+background-color: #FCDAB7;
 text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
-color: seashell;
+color: #1D2D50;
 font-variant: small-caps;
 }
-/* Add a black background color to the top navigation */
+/* Top navigation background color */
 .topnav {
-    background-color: #333;
+    background-color: #133B5C;
     overflow: hidden;
   }
   
-  /* Style the links inside the navigation bar */
+  /* Links style in navigation bar */
   .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: #FCDAB7;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
   }
   
-  /* Change the color of links on hover */
+  /* Color of links on hover */
   .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #1E5F74;
+    color: #FCDAB7;
   }
   
-  /* Add a color to the active/current link */
+  /* Color active/current link */
   .topnav a.active {
-    background-color: #04AA6D;
+    background-color: #1E5F74;
     color: white;
   }
