@@ -16,3 +16,6 @@ ul li {
     padding: 5px;
     font-variant: small-caps;
 }
+.button {
+    float: left;
+}
